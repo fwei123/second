@@ -1,4 +1,4 @@
-本地连接远程
+########本地仓库连接远程仓库###
 
 git remote add origin git@github.com:fwei123/second.git    将本地的连接一个远程的源头  地址是后面的ssh
 
