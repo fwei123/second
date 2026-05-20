@@ -7,3 +7,8 @@ git remote -v    检查远程连接
 
 
 git push -u origin master  本地全部上传到远程
+
+
+
+
+你好我现在在测试。vscode打开
